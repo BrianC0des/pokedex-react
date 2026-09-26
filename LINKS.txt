@@ -1,0 +1,5 @@
+GitHub Repository:
+https://github.com/BrianC0des/pokedex-react
+
+Netlify Deployment:
+https://bryan-pokedex.netlify.app
